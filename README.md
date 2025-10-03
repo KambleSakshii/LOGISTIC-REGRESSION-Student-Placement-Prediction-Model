@@ -1,0 +1,2 @@
+# LOGISTIC-REGRESSION-Student-Placement-Prediction-Model
+ Student Placement Prediction Model This project uses Logistic Regression to predict student placement outcomes based on academic performance indicators such as CGPA and IQ. By analyzing historical data, the model classifies whether a student is likely to be placed, enabling data-driven insights for career planning and institutional benchmarking.
